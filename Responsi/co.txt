@@ -1,0 +1,6 @@
+kita bakal mulai di menit 25
+
+membuat client. server, dan proxy
+Input dan output dari server dan client
+dynamic allocation
+Proxy digunakan untuk menjembatani antara client dan server
