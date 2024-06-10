@@ -1,0 +1,7 @@
+COURSE REMINDER
+
+Quiz seputar TCP
+membuat client. server, dan proxy
+Input dan output dari server dan client
+dynamic allocation
+Proxy digunakan untuk menjembatani antara client dan server
